@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fai-tools\u002F[tool]","\u002Fmodules\u002F[slug]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
